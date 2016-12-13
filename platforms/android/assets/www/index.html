@@ -1,0 +1,55 @@
+<!doctype html>
+<html>
+<head>
+    <title>Simple Reminder</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="initial-scale=1">
+    <link rel="stylesheet" href="css/font-awesome.min.css">
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <div class ="app-view"></div>
+<div class="container">
+    <div id="add-todo">
+        <h3>New item</h3>
+        <input type="text" id="new-item">
+        <a id="add-btn" class="btn" href="#"><i class="fa fa-plus-square-o"></i></a>
+    </div>
+    <div id="to-do-list">
+        <h3>To do list(double click to edit)</h3>
+        <ul>
+            <!--<li data-item="Add todo item" data-type="todo">-->
+                <!--<input type="checkbox">-->
+                <!--<label>Add todo item</label>-->
+                <!--<input type="text" class="edit-area">-->
+                <!--<a class="edit-btn btn">-->
+                    <!--<i class="fa fa-edit"></i>-->
+                <!--</a>-->
+                <!--<a class="del-btn btn">-->
+                    <!--<i class="fa fa-trash-o"></i>-->
+                <!--</a>-->
+            <!--</li>-->
+        </ul>
+    </div>
+    <div id="done-list">
+        <h3>Complete Task</h3>
+        <ul>
+            <!--<li data-item="Complete Task" data-type="done">-->
+                <!--<input type="checkbox" checked>-->
+                <!--<label>Complete Task</label>-->
+                <!--<input type="text" class="edit-area">-->
+                <!--<a class="edit-btn btn">-->
+                    <!--<i class="fa fa-edit"></i>-->
+                <!--</a>-->
+                <!--<a class="del-btn btn">-->
+                    <!--<i class="fa fa-trash-o"></i>-->
+                <!--</a>-->
+            <!--</li>-->
+        </ul>
+    </div>
+    <div class="push"></div>
+</div>
+<div id="msg" class="hide"></div>
+<script src="js/script.js"></script>
+</body>
+</html>
