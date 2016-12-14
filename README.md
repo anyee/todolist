@@ -4,11 +4,11 @@
 This app is a simple todo list, it can help you to organise things or help you to memory stuff.
 it is stand as web app also bulid with cordova run as android and ios system.
 This app has Four features:
-1. add new item
-2. rename item
-3. marked as done
-4. delete item
+－ add new item
+－ rename item
+－ marked as done
+－ delete item
 
 #WireFrame
-![alt text][logo]
-[logo]: github.com/anyee/todolist/blob/master/wireframe.png"Logo Title Text 2"
+![alt text](https://github.com/anyee/todolist/blob/master/wireframe.png "Logo Title Text 2")
+
