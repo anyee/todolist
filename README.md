@@ -10,5 +10,5 @@ This app has Four features:
 4. delete item
 
 #WireFrame
-![alt text][wireframe]
-[wireframe]: github.com/anyee/todolist/blob/master/wireframe.png"WireFrame image"
+![alt text][logo]
+[logo]: github.com/anyee/todolist/blob/master/wireframe.png"Logo Title Text 2"
